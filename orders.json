@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "pizza": "Hawaii",
+        "extra": "Kukorica",
+        "ital": "Ásványvíz",
+        "ar": 2500,
+        "kep": "https://media.istockphoto.com/id/185009286/hu/fot%C3%B3/hawaii-pizza.jpg?s=612x612&w=is&k=20&c=MdHgFEInaXBG7_ZIchC6C96yw6Bj5b-W8fyGPf4t_cg="
+
+    },
+
+    {
+        "id": 2,
+        "pizza": "Songoku",
+        "extra": "",
+        "ital": "Pepsi",
+        "ar": 2700,
+        "kep": "https://media.istockphoto.com/id/185009286/hu/fot%C3%B3/hawaii-pizza.jpg?s=612x612&w=is&k=20&c=MdHgFEInaXBG7_ZIchC6C96yw6Bj5b-W8fyGPf4t_cg="
+
+    },
+
+    {
+        "id": 3,
+        "pizza": "Húsimádó",
+        "extra": "Fürsölt sajt",
+        "ital": "Sprite",
+        "ar": 3400,
+        "kep": "https://media.istockphoto.com/id/185009286/hu/fot%C3%B3/hawaii-pizza.jpg?s=612x612&w=is&k=20&c=MdHgFEInaXBG7_ZIchC6C96yw6Bj5b-W8fyGPf4t_cg="
+
+    },
+
+    {
+        "id": 4,
+        "pizza": "Korfu",
+        "extra": "Olivabogyó",
+        "ital": "",
+        "ar": 3000,
+        "kep": "https://media.istockphoto.com/id/185009286/hu/fot%C3%B3/hawaii-pizza.jpg?s=612x612&w=is&k=20&c=MdHgFEInaXBG7_ZIchC6C96yw6Bj5b-W8fyGPf4t_cg="
+
+    },
+
+    {
+        "id": 5,
+        "pizza": "Pikáns",
+        "extra": "Jalapeno",
+        "ital": "Fanta",
+        "ar": 3750,
+        "kep": "https://media.istockphoto.com/id/185009286/hu/fot%C3%B3/hawaii-pizza.jpg?s=612x612&w=is&k=20&c=MdHgFEInaXBG7_ZIchC6C96yw6Bj5b-W8fyGPf4t_cg="
+
+    },
+
+    {
+        "id": 6,
+        "pizza": "Bolognai",
+        "extra": "",
+        "ital": "",
+        "ar": 1950,
+        "kep": "https://media.istockphoto.com/id/185009286/hu/fot%C3%B3/hawaii-pizza.jpg?s=612x612&w=is&k=20&c=MdHgFEInaXBG7_ZIchC6C96yw6Bj5b-W8fyGPf4t_cg="
+
+    }
+]
